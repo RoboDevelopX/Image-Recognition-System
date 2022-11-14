@@ -5,7 +5,3 @@ Image or Object Detection is a computer technology that processes the image and 
 
 Python programming !
 
-Contact me at (Vatshayan007@gmail.com) for Codes, Research papers, PPT and Project.
-Feel free to mail me!
-
-Lets Learn, Work and Grow together :-)
